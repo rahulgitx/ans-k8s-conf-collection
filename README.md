@@ -35,4 +35,4 @@ For **quick configuration** just download all of these files in your local folde
           - role: k8sworker
             ignore_errors: yes
 ```
-_Note: By default this role will launch three redhat free tier t2.micro instances in Mumbai region. Make changes in the role/launching_instances/vars/main.yml folder to customize according to you.
+_Note: By default this role will launch three redhat free tier t2.micro instances in Mumbai region. Make changes in the role/launching_instances/vars/main.yml folder to customize according to you._
